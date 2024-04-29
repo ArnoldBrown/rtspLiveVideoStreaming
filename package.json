@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/toolbar-android": "^0.2.1",
+    "add": "^2.0.6",
     "react": "18.2.0",
-    "react-native": "0.74.0"
+    "react-native": "0.74.0",
+    "react-native-vlc-media-player": "^1.0.67",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
